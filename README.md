@@ -1,4 +1,4 @@
-# Assignment 5
+# Airline Analysis
 
 This repository contains two main projects: a budget tracking application and a customer segmentation analysis using clustering algorithms.
 
